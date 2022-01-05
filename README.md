@@ -1,2 +1,11 @@
-# Analyzing_Web_Archives
+# Analyzing Web Archives
 Presentation Material for Analyzing Web Archives Workshop
+
+![Analyzing Web Archives](splash.jpg)
+
+### Next Session
+January, 18, 2022.
+
+[Brock Community Registration](https://experiencebu.brocku.ca/event/189492)
+
+[Wider Community Registration](https://www.eventbrite.ca/e/analyzing-web-archives-tickets-191870187897)
