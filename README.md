@@ -3,12 +3,6 @@ Presentation Material for Analyzing Web Archives Workshop
 
 ![Analyzing Web Archives](splash.jpg)
 
-### Next Session
-January, 18, 2022.
-
-[Brock Community Registration](https://experiencebu.brocku.ca/event/189492)
-
-[Wider Community Registration](https://www.eventbrite.ca/e/analyzing-web-archives-tickets-191870187897)
-
+[Video from January, 18, 2022 Session](https://brocku-my.sharepoint.com/:v:/g/personal/tribaric_brocku_ca/EWT2v5cKYclPh8l0ypTdyjEB6CJ6z1y1CDGygmNib8L-ZA?e=VdIcqE)
 
 [Launch Notebook](https://colab.research.google.com/github/BrockDSL/Analyzing_Web_Archives/blob/main/Meme_Web_Archive_Exploration.ipynb)
